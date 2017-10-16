@@ -1,0 +1,7 @@
+:global .menu >ul{
+    background-color: #f2edf2;
+}
+
+:global .menu .ant-menu-dark.ant-menu-inline .ant-menu-item-selected {
+    background-color: #FFF0F5;
+}
